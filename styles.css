@@ -1,0 +1,25 @@
+img {
+  height: 500px;
+  width: 300px;
+}
+
+
+
+#container {
+  margin: 0 auto;
+  float: none;
+  text-align: center;
+  display: center;
+}
+
+.col {
+  margin: 0 auto;
+  float: none;
+  text-align: center;
+  display: center;
+}
+
+h1 {
+  text-align: center
+  
+}
